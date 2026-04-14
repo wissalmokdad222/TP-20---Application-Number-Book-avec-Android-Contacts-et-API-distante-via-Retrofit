@@ -38,4 +38,5 @@ Un numéro de téléphone n'est pas un nombre mathématique sur lequel on effect
 
 **Quel est l’intérêt des requêtes préparées en PHP ?**
 Les requêtes préparées permettent de séparer la structure de la commande SQL des données fournies par l'utilisateur. Cela améliore les performances si la requête est répétée plusieurs fois, mais surtout, cela protège la base de données contre les injections SQL, une faille de sécurité majeure.
+
 [vid2.zip](https://github.com/user-attachments/files/26723017/vid2.zip)
