@@ -10,7 +10,7 @@ Cette application permet de lire les contacts d'un téléphone Android, de les a
 4.  **Interface Utilisateur** : Création d'un layout avec RecyclerView pour l'affichage fluide des données.
 5.  **Communication Réseau** : Utilisation de la bibliothèque Retrofit pour transformer les objets Java en JSON et communiquer avec le serveur.
 6.  **Logique Applicative** : Implémentation du ContentResolver pour extraire les données du répertoire et gestion des appels asynchrones vers l'API.
-
+![](https://github.com/user-attachments/assets/509a77ca-23d7-40eb-8c50-4b98559432fe)
 ---
 
 ## Questions de compréhension
